@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.input-local + .form-check-label {
+  background-color: pink;
+}
+
+.input-regional + .form-check-label {
+  background-color: pink;
+}
+
+.input-international + .form-check-label {
+  background-color: pink;
+}
